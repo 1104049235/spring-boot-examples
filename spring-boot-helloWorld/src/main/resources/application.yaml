@@ -1,0 +1,8 @@
+server:
+  tomcat:
+    max-connections: 20000
+spring:
+  thymeleaf:
+    cache: false
+    suffix: .html
+    encoding: utf-8

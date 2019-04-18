@@ -1,0 +1,23 @@
+{
+	"description" : "唯美落樱。",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.21568627450980393 0.2901960784313726 0.40784313725490196"
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "落樱",
+	"type" : "web",
+	"visibility" : "public"
+}
